@@ -36,12 +36,12 @@ Es hat auch einen grossen Platz mit Kinderspielplatz, der, glaube ich, nicht so 
 So wie immer, trifft sich die Gruppe der "Aktionisten", wie auf einer Feldwiese "früher", zum gemeinsamen Picknick.
 Sie haben zu Essen, zu Trinken (kein Alkohol) und zu Rauchen dabei (höchstens THC Joints, keine "harten" Drogen), sind guter Laune und suchen sich unverblümt, ohne sich etwas anzumerken, wie wenn es "normal" wäre, ein freies Plätzchen, wo sie sich ausbreiten können.
 Aber das in der Stadt Solothurn, und nicht auf einer Wiese.
-Bevor die Gruppe aber mit der "Party" beginnt, sorgen sie erst mal für ein sauberes Umfeld (säubere deinen Weg).
+Bevor die Gruppe aber mit der "Party" beginnt, sorgt sie erst mal für ein sauberes Umfeld (Säubere deinen Weg).
 Sie beginnen fein säuberlich **den ganzen Platz**, nicht nur "ihren" von jedwedem Unrat zu befreien, der da nicht hingehört.
 Es könnte sein, dass sich ein Zigarettenstummel unter einer Parkbank befindet, wo gerade Passanten eine Rast machen. Hier wird erst höflichst um Erlaubnis gebeten, bevor man sich der Person nähert. Man ist ja ein anständiger Mensch. Bei einem Nein, zieht die Gruppe sich mit einer Entschuldigung zurück.
 Wenn es sein muss, wird mit der Lupe nach dem noch so kleinsten Glassplitter gesucht.
 Eltern sollten ihre Kinder auf diesem Platz ohne Bedenken spielen lassen können.
-Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und das kann Stunden dauern, beginnen sie mit der Party.4
+Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und das kann Stunden dauern, beginnen sie mit der Party.
 Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
@@ -55,7 +55,7 @@ Bei Bedarf können auch künstliche Fingernägel verwendet werden. Die Message i
 Es geht sogar sehr gut mit langen Fingernägeln.
 
 Die Raucher unter der Gruppe sollten/können während der Aktion rauchen. Auch THC Joints. Aber nicht zu viel! Sicherheit!
-Man kann auch nur Pseudo-Rauchen. Den Unterschied merken viele gar nicht.
+Man kann auch nur Pseudo-Rauchen oder CBD. Den Unterschied merken viele gar nicht.
 So signalisieren wir: Ja, wir sind Raucher. Aber nicht so wie die anderen. Wir schnippen unsere Kippen nicht einfach weg.
 Wir verwenden auch demonstrativ Reiseaschenbecher, damit die Leute sehen: Ach...das gibt es?
 
@@ -69,7 +69,7 @@ Niemand sollte etwas dagegen haben. Wir machen ja sauber. Die Party ist "cool". 
 Nur **falls** sich eine Person uns und unserer Aktion zuwendet, beantworten wir gerne dessen Fragen und haben auch gratis Reiseaschenbecher dabei.
 Reiseaschenbecher sollten mit keinem Logo oder "Moralspruch" versehen sein.
 Es sollte viele Varianten/Grössen sein. Nicht nur genau ein Modell.
-Die Raucher sollten ihn gerne bei sich tragen.
+Die Raucher sollten ihn gerne bei sich tragen wollen.
 
 Aktionisten können auch in ihrem täglichen Leben Kleinstmüll entsorgen. Z.b. im Bahnhof vor einer Gruppe "randalierender" Teenager. Achtung Sicherheit!
 
@@ -93,7 +93,7 @@ Beweise: Haben die Solothurner sich an uns ein gutes Beispiel genommen und verme
 Wenn Ja: Die Aktion ausdehnen auf weitere Plätze, Städte, Länder.
 Wenn Nein: Nicht aufgeben
 
-Bei Erfolg, schliessen sich womöglich andere Aktionisten aus anderen Städten/Ländern der Aktion an mit dem Ziel, die Welt endlich von diesen verfickten Zigarettenstummeln zu befreien.
+Bei Erfolg, schliessen sich womöglich andere aus anderen Städten/Ländern uns an mit dem Ziel, die Welt endlich von diesen verfickten Zigarettenstummeln zu befreien.
 
 Ich habe die Aktion persönlich in meiner Heimatstadt Solothurn, an einem sonnigen Tag durchgeführt.
 Über ca. 2 Stunden habe ich barfuss, mit lackierten Nägeln, und ungeschützt, die Aaremauer und einen Sitzplatz vor einer besuchten Restaurantterrasse penibel von Zigarettenstummeln, Glasscherben und Unrat befreit, bevor ich auf der Parkbank eine Rast einlegte.
@@ -103,6 +103,5 @@ Ich habe mich nicht verletzt. Von Infektionen weiss ich bis jetzt nichts. Es geh
 Vorschlag für die (Nagellack) Farbe dieser Aktion:
 "Essie - Let's Party, 635"
 
-Säubere deinen Weg - Christian Oetterli, 2023 <- Provisorisch. Nachweis erbringen, das Christian Oetterli dieses Sprichwort "erfunden" hat. Ansonsten den "Erfinder" benennen.
-
-
+Säubere deinen Weg
+  Christian Oetterli, 2023 <- Provisorisch. Nachweis erbringen, das Christian Oetterli dieses Sprichwort "erfunden" hat. Ansonsten den "Erfinder" benennen.
