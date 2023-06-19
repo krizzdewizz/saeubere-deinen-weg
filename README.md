@@ -3,10 +3,7 @@
 Eine gewaltlose Protestaktion zur Säuberung der Umwelt von Kleinstmüll
 
 Autor:
-Christian Oetterli
-Amselweg 1
-4704 Niederbipp
-+41 (0)79 500 300 8
+Christian Oetterli, Amselweg 1, 4704 Niederbipp, +41 (0)79 500 300 8
 
 Datum der Ersterstellung: 19. Juni, 2023
 
