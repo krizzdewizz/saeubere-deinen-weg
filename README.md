@@ -42,17 +42,17 @@ Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und
 Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
-Besonderheiten:
+## Besonderheiten
 
-Wenn möglich und für einen persönlich vertretbar, sind alle der Gruppe barfuss unterwegs und der Kleinstmüll wird mit blossen Händen/Fingerspitzen/Nägeln ungeschützt aufgepickt. Wie auf einer Wiese. Dies auch um den Passanten zu zeigen, dass man daran nicht "stirbt".
+Wenn möglich und für einen persönlich vertretbar, sind alle der Gruppe barfuss unterwegs und der Kleinstmüll wird mit blossen Händen/Fingerspitzen/Nägeln ungeschützt aufgepickt. Wie auf einer Wiese. Dies auch um den Passanten zu zeigen, dass man daran nicht "stirbt". "Die Kinder heututage sollten wieder mehr Dreck essen. So wie früher. Dann hätten sie auch nicht so viele Allergien" - wie der Volksmund sagt.
 
-Finger- und Zehennägel sind in einer möglichst auffälligen Farbe lackiert. Auch die Männer - was zusätzlich für Aufsehen sorgt.
+Finger- und Zehennägel sind in einer möglichst auffälligen Farbe lackiert (z.B. "Essie - Let's Party, 635"). Auch die Männer - was zusätzlich Aufsehen erregt.
 Zum Zweck der Zugehörigkeit, sollten alle der Gruppe dieselbe Farbe verwenden.
-Bei Bedarf können auch künstliche Fingernägel verwendet werden. Die Message ist: Ich kann gepflegte Finger/Fingernägel haben und trotzdem einen Zigarettenstummel eines Fremden aufheben.
+Bei Bedarf können auch künstliche Fingernägel verwendet werden. Die Message ist: Ich kann gepflegt sein, gepflegte Finger/Fingernägel haben und trotzdem einen Zigarettenstummel eines Fremden aufheben oder mich an einem Glassplitter zu schneiden.
 Es geht sogar sehr gut mit langen Fingernägeln.
 
-Die Raucher unter der Gruppe sollten/können während der Aktion rauchen. Auch THC Joints. Aber nicht zu viel! Sicherheit!
-Man kann auch nur Pseudo-Rauchen oder CBD. Den Unterschied merken viele gar nicht.
+Die Raucher unter der Gruppe sollten/können/dürfen während der Aktion rauchen. Matürlich nur, wenn sich niemand belästigt fühlt. Auch THC Joints. Aber nicht zu viel! Sicherheit!
+Man kann auch nur Pseudo-Rauchen oder CBD. Den Unterschied merken viele gar nicht. Oder eine Ziggi hinter die Ohren klemmen.
 So signalisieren wir: Ja, wir sind Raucher. Aber nicht so wie die anderen. Wir schnippen unsere Kippen nicht einfach weg.
 Wir verwenden auch demonstrativ Reiseaschenbecher, damit die Leute sehen: Ach...das gibt es?
 
@@ -67,8 +67,9 @@ Nur **falls** sich eine Person uns und unserer Aktion zuwendet, beantworten wir 
 Reiseaschenbecher sollten mit keinem Logo oder "Moralspruch" versehen sein.
 Es sollte viele Varianten/Grössen sein. Nicht nur genau ein Modell.
 Die Raucher sollten ihn gerne bei sich tragen wollen.
+>> Amazon/AliExpress o.a. Web Links zum kaufen
 
-Aktionisten können auch in ihrem täglichen Leben Kleinstmüll entsorgen. Z.b. im Bahnhof vor einer Gruppe "randalierender" Teenager. Achtung Sicherheit!
+Aktionisten können auch in ihrem täglichen Leben Kleinstmüll entsorgen. Z.b. (Nachts) im Bahnhof vor einer Gruppe "randalierender" Teenager. Achtung Sicherheit!
 
 Aktionisten sollten, selbstverständlich, Kleinstmüll aufräumen, auch wenn niemand sie sieht.
 Frei nach dem Motto: Verlasse den Platz sauberer als du ihn vorgefunden hast.
@@ -92,12 +93,12 @@ Wenn Nein: Nicht aufgeben
 
 Bei Erfolg, schliessen sich womöglich andere aus anderen Städten/Ländern uns an mit dem Ziel, die Welt endlich von diesen verfickten Zigarettenstummeln zu befreien.
 
-Ich habe die Aktion persönlich in meiner Heimatstadt Solothurn, an einem sonnigen Tag durchgeführt.
-Über ca. 2 Stunden habe ich barfuss, mit lackierten Nägeln, und ungeschützt, die Aaremauer und einen Sitzplatz vor einer besuchten Restaurantterrasse penibel von Zigarettenstummeln, Glasscherben und Unrat befreit, bevor ich auf der Parkbank eine Rast einlegte.
+Ich bin Raucher und Kiffer und habe die Aktion persönlich in meiner Heimatstadt Solothurn, an einem sonnigen Tag durchgeführt.
+Über ca. 2 Stunden habe ich barfuss, mit lackierten Nägeln, ungeschützt und kiffend die Aaremauer und einen Sitzplatz vor einer besuchten Restaurantterrasse penibelst von Zigarettenstummeln, kleinsten Glasscherben und Unrat befreit, bevor ich auf der Parkbank eine Rast einlegte.
 Es hatte viele Passanten und es war ziemlich verschmutzt.
-Ich habe mich nicht verletzt. Von Infektionen weiss ich bis jetzt nichts. Es geht mir sehr gut.
+Ich habe mich nicht verletzt. Keine Kratzer, kein gar nichts. Von Infektionen weiss ich bis jetzt nichts. Es geht mir sehr gut.
 
-Vorschlag für die (Nagellack) Farbe dieser Aktion:
+## Vorschlag für die (Nagellack) Farbe dieser Aktion
 "Essie - Let's Party, 635"
 
 Säubere deinen Weg
