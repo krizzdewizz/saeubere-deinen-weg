@@ -16,7 +16,7 @@ Die Städte, Wiesen, Flüsse, Sitzplätze, Promenaden sind gespickt mit "Kleinst
 Dieser Müll hat aber einige Besonderheiten:
 
 - der Müll ist zu klein, um mit den grossen "Gesteigwischer" Maschinen oder Besen, Bläser erfasst zu werden. Oft werden sie nur einfach weiter verstreut (<- Nachweis erbringen)
-- Es ist **viel** Müll. Genauso wie Mikroplastik im Meer. Es bräuchte sehr viele Gemeindearbeiter, um jedes einzelne Ding fachgerecht zu entsorgen.
+- Es ist **viel** Müll. Genauso wie Mikroplastik im Meer. Es bräuchte sehr viele Arbeiter und Geld, um jedes einzelne Ding fachgerecht zu entsorgen.
 - Viele Leute wären vielleicht bereit dazu, die schiere Menge aber hält sie davon ab.
 - Man hebt ungern Zigarettenstummel von "Fremden" auf, oder fühlt sich nicht für fremden Müll verantwortlich/zuständig
 - Man müsste sich ducken oder hat gerade nicht das geeignete "Werkzeug" dabei
