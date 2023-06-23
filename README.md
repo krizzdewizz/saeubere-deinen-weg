@@ -52,6 +52,7 @@ Es könnte sein, dass sich ein Zigarettenstummel unter einer Parkbank befindet, 
 Wenn es sein muss, wird mit der Lupe nach dem noch so kleinsten Glassplitter gesucht.
 Eltern sollten ihre Kinder auf diesem Platz ohne Bedenken spielen lassen können.
 Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und das kann Stunden dauern, beginnen sie mit der Party.
+Bei geeigneten Platz malt die Gruppe mit abwaschbarer, umweltverträgliher Kreide Blumen, Gräser, Tiere um ihren Platz herum.
 Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
