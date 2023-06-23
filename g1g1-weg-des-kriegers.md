@@ -15,7 +15,7 @@ Ich erfahre, das in Kaiserslautern, wo ich mich des öfteren geschäftlich aufha
 ## Nach der Veränderung
 Ich kaufte mir eine Spielzeug Schildkröte. Es war die einzige Schildkröte unter vielen Tieren.
 
-Ich beginne unbewusst, lästige Zigarettenstummel mit blossen Händen aufzuheben und zu entsorgen.
+Ich beginne unbewusst, Kleinstmüll, insbesondere Zigarettenstummel, mit blossen Händen aufzuheben und zu entsorgen.
 Ich realisiere, das ich während dieser Tätigkeit meditiere.
 Dabei kommt mir das Mantra in den Sinn: Säubere deinen Weg.
 Ich gehe den Weg erst weiter, wenn er gesäubert ist. Überall, wo ich hingehe oder raste, lese ich Kleinstmüll auf und entsorge es.
@@ -23,16 +23,20 @@ Ich gehe den Weg erst weiter, wenn er gesäubert ist. Überall, wo ich hingehe o
 Ich nenne die Schildkröte intuitiv "Ninja".
 
 ## Der Weg des Herzens
-Von Niederbipp nach Japan laufen. Barfuss oder in Flip Flops mit lackierten Nägeln und dabei allen Kleinstmüll aufsammeln und entsorgen.
+
+Umweltaktion "Säubere deinen Weg".
+
+Von zu Hause (Niederbipp) nach Japan wandern.
+Barfuss oder in Flip Flops mit lackierten Nägeln und dabei allen Kleinstmüll aufsammeln und entsorgen.
 
 Während der Reise trainiere ich für den Ninja Warrior Wettkampf.
 Dabei mache ich einen Umweg über Kaiserslautern und übe mich in der Shaolin Kampfkunsttechnik.
 
-Habe ich das geschafft. Gehe ich den 
+Habe ich das geschafft, gehe ich den Weg des Kriegers. 
 
 ## Weg des Kriegers
 
-und gewinnen den Sasuke Ninja Warrior Wettkampf.
+Ich gewinne den Sasuke Ninja Warrior Wettkampf.
 
 ## Verbindungen
 
