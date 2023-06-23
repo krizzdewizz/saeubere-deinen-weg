@@ -1,11 +1,24 @@
-# Säubere deinen Weg
 
-Eine gewaltlose Protestaktion zur Säuberung der Umwelt von Kleinstmüll
+```
+       _____ _   _       _                           _      _                      _    _            
+      /  ___(_) (_)     | |                         | |    (_)                    | |  | |           
+      \ `--.  __ _ _   _| |__   ___ _ __ ___      __| | ___ _ _ __   ___ _ __     | |  | | ___  __ _ 
+       `--. \/ _` | | | | '_ \ / _ \ '__/ _ \    / _` |/ _ \ | '_ \ / _ \ '_ \    | |/\| |/ _ \/ _` |
+      /\__/ / (_| | |_| | |_) |  __/ | |  __/   | (_| |  __/ | | | |  __/ | | |   \  /\  /  __/ (_| |
+      \____/ \__,_|\__,_|_.__/ \___|_|  \___|    \__,_|\___|_|_| |_|\___|_| |_|    \/  \/ \___|\__, |
+                                                                                                __/ |
+                                                                                                |___/ 
+```
 
-Autor:
-Christian Oetterli, Amselweg 1, 4704 Niederbipp, +41 (0)79 500 300 8
-
-Datum der Ersterstellung: 19. Juni, 2023
+<p>&nbsp;</p>
+<p style="text-align: center;">Eine stille Protestaktion zur Säuberung der Umwelt von Kleinstmüll</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">☀️❤️☀️</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Initiiert von</p>
+<p style="text-align: center;">Christian Oetterli</p>
+<p style="text-align: center;">+41 (0)79 500 300 8</p>
+<p style="text-align: center;">Datum der Ersterstellung: 19. Juni, 2023</p>
 
 ## Ausgangslage
 
