@@ -11,7 +11,7 @@
 ```
 
 <p>&nbsp;</p>
-<p style="text-align: center;">Eine stille Protestaktion zur Säuberung der Umwelt von Kleinstmüll</p>
+<p style="text-align: center;">Eine stille Protestaktion zur Säuberung der Umwelt von Mikromüll</p>
 <p>&nbsp;</p>
 <p style="text-align: center;">☀️❤️☀️</p>
 <p>&nbsp;</p>
