@@ -1,4 +1,4 @@
-> This is the german version of the document. The AI assisted translation in english can be found [here](README-en.md)
+````> This is the german version of the document. The AI assisted translation in english can be found [here](README-en.md)
 
 ```
        _____ _   _       _                           _      _                      _    _            
@@ -55,6 +55,7 @@ Instagram:
 - [Positive Nebeneffekte](#positive-nebeneffekte)
 - [Identifikation](#identifikation)
     * [Farbe](#farbe)
+- [Geplante Events](#geplante-events)
 - [TODO](#todo)
 
 # Ausgangslage
@@ -63,17 +64,17 @@ Die Städte, Wiesen, Flüsse, Sitzplätze, Promenaden sind gespickt mit "Kleinst
 Dieser Müll hat aber einige Besonderheiten:
 
 - der Müll ist zu klein, um mit den grossen "Gesteigwischer" Maschinen oder Besen, Bläser erfasst zu werden. Oft werden sie nur einfach weiter verstreut (<- Nachweis erbringen)
-- Es ist **viel** Müll. Genauso wie Mikroplastik im Meer. Es bräuchte sehr viele Arbeiter und Geld, um jedes einzelne Ding fachgerecht zu entsorgen.
+- Es ist **viel** Müll. Genauso wie Mikroplastik im Meer. Es braucht sehr viele Arbeiter und Geld, um jedes einzelne Ding fachgerecht zu entsorgen.
 - Man hebt ungern Zigarettenstummel von "Fremden" auf, oder fühlt sich nicht für fremden Müll verantwortlich/zuständig
 - Viele Leute wären vielleicht bereit dazu, die schiere Menge aber hält sie davon ab
 - Man müsste sich ducken oder hat gerade nicht das geeignete "Werkzeug" dabei
-- weitere Besonderheiten...
+- weitere...
 
 # Aktion
-Eine Gruppe von Jugendlichen trifft sich, wie so oft, an einem sonnigen Tag auf einer Wiese, im Stadtpark oder am See zu einem gemeinsamen Beisammen sein.
-Aber anstatt eine grüne Wiese ist ein verdreckter Platz in einer Stadt.
+Eine Gruppe von Jugendlichen trifft sich, wie so oft, an einem sonnigen Tag auf einer Wiese, im Stadtpark oder am See zu einem gemeinsamen Beisammensein.
+Aber anstatt einer grünen Wiese ist es ein verdreckter Platz in einer Stadt.
 
-Der Platz sollte möglichst hochfrequentiert sein und möglichst verdreckt.
+Der Platz sollte möglichst hoch frequentiert und möglichst verdreckt sein.
 
 Z.B. die Solothurner Promenade entlang der Aare.
 
@@ -93,20 +94,20 @@ Es könnte sein, dass sich ein Zigarettenstummel unter einer Parkbank befindet, 
 Wenn es sein muss, wird mit der Lupe nach dem noch so kleinsten Glassplitter gesucht. Eltern sollten ihre Kinder auf diesem Platz ohne Bedenken spielen lassen können.
 
 Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und das kann Stunden dauern, beginnen sie mit der Party.
-Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
+Die Gruppe lässt es sich ein wenig gut gehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
 ## Extras
 
-Auf dem Weg zu der Müllsammelstelle durch die Stadt hinterlassen wir schön anzusehende Tags im "naiven Kinderstil".
+Auf dem Weg zur Müllsammelstelle durch die Stadt hinterlassen wir schön anzusehende Tags im "naiven Kinder Stil".
 Z.b. Blumen mit Gesichtern, ein lustiges Gesicht, dass hinter einer Wand hervorlugt - Bilder, die wir als Kinder in das Schulheft gekritzelt haben, als der Unterricht mal wieder zum Gähnen war.
 Bilder, so wie wir die Stadt gerne sehen möchten. Als Kinder und als Erwachsene.
 
-Die Tags werden mit leicht abwaschbarer, umweltverträglicher Kindermalkreide gezeichnet.
+Die Tags werden mit leicht abwaschbarer, umweltverträglicher Strassenkreide gezeichnet.
 
 Wir hinterlassen auch das Tag dieser Aktion: ☀️❤️☀️
 
-Siehe auch Kapitel "Zu Aktion bekennen"
+Siehe auch [Zu Aktion bekennen](#zu-aktion-bekennen).
 
 # Safety First
 
@@ -119,9 +120,11 @@ Jede teilnehmende Person kann für sich entscheiden, wie weit sie gehen will. Ha
 # Besonderheiten
 
 Wenn möglich und für die teilnehmende Person vertretbar sind alle der Gruppe barfuss unterwegs und der Kleinstmüll wird mit blossen Händen/Fingerspitzen/Nägeln ungeschützt aufgepickt. Wie auf einer Wiese.
-Dies auch um den Passanten zu zeigen, dass man daran nicht "stirbt". "Die Kinder heutzutage sollten wieder mehr Dreck essen. So wie früher. Dann hätten sie auch nicht so viele Allergien" - wie der Volksmund sagt.
+Dies auch, um den Passanten zu zeigen, dass man daran nicht "stirbt". "Die Kinder heutzutage sollten wieder mehr Dreck essen so wie wir früher. Dann hätten sie auch nicht mehr so viele Allergien" - wie der Volksmund sagt.
 
-Finger- und Zehennägel sind in einer möglichst auffälligen Farbe lackiert (z.B. "Essie - Let's Party, 635"). Auch die Männer - was zusätzlich Aufsehen erregt.
+Finger- und Zehennägel sind in einer möglichst auffälligen Farbe lackiert. Auch die Männer - was zusätzlich Aufsehen erregt.
+
+Siehe auch [Identifikation](#identifikation).
 
 Zum Zweck der Zugehörigkeit sollten alle der Gruppe dieselbe Farbe verwenden.
 
@@ -196,6 +199,8 @@ Erzähle ihnen, dass viele Leute heutzutage der Meinung sind, die heute Generati
 
 Alles freundlich und mit einem Augenzwinkern. Die Antworten sollten niemals belehrend wirken.
 
+...weitere
+
 # Aktion im Alltag
 
 Aktionisten (alle) können auch in ihrem täglichen Leben Kleinstmüll entsorgen. Z.b. (Nachts) im Bahnhof vor einer Gruppe "randalierender" Teenager. Achtung: **Safety First**!
@@ -205,6 +210,7 @@ Aktionisten sollten, selbstverständlich, Kleinstmüll aufräumen, auch wenn nie
 Frei nach dem Motto: Verlasse den Platz sauberer als du ihn vorgefunden hast.
 
 # Effekt
+
 Wie gehen mit gutem Beispiel voran.
 
 Alle sollen sehen, wie viel Mühe und wir uns geben, und wie normal es ist, unseren Platz zu säubern.
@@ -226,6 +232,7 @@ Falls der Gemeinde durch unsere Aktion Kosten entstehen würden, z.B. wegen der 
 Wir machen das aus Überzeugung und erwarten kein Lob oder eine Belohnung von der Gemeinde oder von irgendjemanden sonst.
 
 # Erfolg messen
+
 Der potenzielle Erfolg der Aktion wird an einem Fallbeispiel belegt.
 
 Die Gruppe observiert/dokumentiert mit Fotobeweis oder anderen Mitteln denselben Platz über mehrere Tage/Wochen.
@@ -254,25 +261,31 @@ Ich bin Raucher und Kiffer und habe die Aktion persönlich in meinem Wohnort Nie
 Einen Sitzplatz gesäubert und einen hochwertigen Aschenbecher dagelassen.
 Kontrolle eine Woche später hat ergeben: 2 Stummel am Boden, 3 Stummel im Aschenbecher. Ein voller Erfolg. Statistisch gesehen wertlos.
 Eine Woche später war der Aschenbecher weg. Gestohlen? Ja. Wird er weiter benutzt? Wahrscheinlich Ja.
+
 Aufwand: 1h
 
 Den Parkplatz eines Kiosks und eines Pizzabäckers gereinigt.
+
 Aufwand: 2 h
 
 Den Rand einer Kuhwiese von Blechdosen, Plastikfetzen, Stummeln und dergleichen gereinigt. Auch in der Wiese.
+
 Aufwand: 0.5 h
 
 Den Gartenplatz von Dahlia Niederbipp gereinigt. Dahlia ist eine Pflege- und Betreuungsinstitution für meist ältere, pflegebedürftige Menschen.
 Einen ca. 100 m langen Abschnitt einer Strasse mit anschliessender Wiese gereinigt.
 Zwei Sitzplätze, einen Parkplatz und Umgebung gereinigt.
+
 Aufwand: 3 h
 
 Ich habe rund um unseren Dorfkreisel alles gesäubert, während, wie fast immer, der Fluchtverkehr sich durch unser Dorf staute.
 Autofahrer aus allen Herren Länder hätten mich absichtlich ignorieren müssen, um mir dabei nicht zusehen zu müssen.
 Auch hatten sie genügend Zeit (Stau), mir dabei zuzusehen.
+
 Aufwand: 1.5 h
 
 Auf meinem Weg zum Bahnhof entsorge ich meist Unrat (Stummel und Fetzen) und werfe es in den nächsten Mülleimer.
+
 Aufwand: 1-2 min
 
 Wenn mir ein "grosser Fisch" auffällt, mache ich auch mal einen Umweg um ihn zu entsorgen.
@@ -350,6 +363,11 @@ Essie - Let's Party, 635
 
 ![Essie - Let's Party, 635, Color](essie-lets-party-635-color.png)
 
+# Geplante Events
+
+- 1.7.2023, 09:30. Alterswohnungen, Schule/Pausenplatz, Bahnhof 
+- 2.9.2023, 11:00. Zürich Bahnhofstrasse 
+
 # TODO
 
 - Essie um Support anfragen. Sie könnten als "Beauty Produkte Hersteller" ein Zeichen setzen, indem sie eine Umweltaktion offiziell mit ihrem Nagellack unterstützen.
@@ -357,3 +375,4 @@ Essie - Let's Party, 635
 - Ist es ok, während der Aktion Energydrinks wie Red Bull zu konsumieren? Andere "graue" Bereiche?
 - Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum Kaufen
 - Mehr?
+````

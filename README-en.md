@@ -55,6 +55,7 @@ Instagram:
 - [Positive side effects](#positive-side-effects)
 - [Identification](#identification)
     * [Color](#color)
+- [Planned events](#planned-events)
 - [TODO](#todo)
 
 # Initial position
@@ -349,6 +350,11 @@ The logo/tag of this promotion is this Unicode string:
 Essie - Let's Party, 635
 
 ![Essie - Let's Party, 635, Color](essie-lets-party-635-color.png)
+
+# Planned events
+
+- 1.7.2023, 09:30. Alterswohnungen, Schule/Pausenplatz, Bahnhof
+- 2.9.2023, 11:00. Zürich Bahnhofstrasse
 
 # TODO
 
