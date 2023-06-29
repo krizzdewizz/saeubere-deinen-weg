@@ -1,3 +1,4 @@
+> This is the german version of the document. The english version can be found [here](README-en.md)
 
 ```
        _____ _   _       _                           _      _                      _    _            
@@ -19,8 +20,6 @@ Initiiert von Christian Oetterli
 Datum der Ersterstellung: 19. Juni, 2023
 
 Sprache: Deutsch (original)
-
-English version: TODO
 
 christian@o3tt3rli.com
 
