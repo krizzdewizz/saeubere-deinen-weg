@@ -26,7 +26,7 @@ WhatsApp:
 
 Instagram:
 
-![Instagram QR Code](instagram-g1g1.o3tt3rli_qr.png)
+[Instagram QR Code](instagram-g1g1.o3tt3rli_qr.png)
 
 # Ausgangslage
 
