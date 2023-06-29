@@ -26,7 +26,9 @@ WhatsApp:
 
 +41 79 500 300 8
 
-[Instagram QR Code](instagram-g1g1.o3tt3rli_qr.png)
+Instagram:
+
+[g1g1.o3tt3rli](instagram-g1g1.o3tt3rli_qr.png)
 
 # Ausgangslage
 
