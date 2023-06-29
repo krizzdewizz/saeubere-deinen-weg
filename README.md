@@ -20,11 +20,11 @@ Datum der Ersterstellung: 19. Juni, 2023
 
 christian@o3tt3rli.com
 
-WhatsApp:
-
 +41 (0)79 500 300 8
 
-Instagram:
+WhatsApp:
+
++41 79 500 300 8
 
 [Instagram QR Code](instagram-g1g1.o3tt3rli_qr.png)
 
