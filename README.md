@@ -1,4 +1,4 @@
-````> This is the german version of the document. The AI assisted translation in english can be found [here](README-en.md)
+> This is the german version of the document. The AI assisted translation in english can be found [here](README-en.md)
 
 ```
        _____ _   _       _                           _      _                      _    _            
@@ -33,7 +33,7 @@ Instagram:
 
 [g1g1.o3tt3rli](instagram-g1g1.o3tt3rli_qr.png)
 
-# Inhaltsverzeichnis
+#  Inhaltsverzeichnis
 
 - [Ausgangslage](#ausgangslage)
 - [Aktion](#aktion)
