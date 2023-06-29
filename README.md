@@ -30,6 +30,23 @@ Instagram:
 
 [g1g1.o3tt3rli](instagram-g1g1.o3tt3rli_qr.png)
 
+# Inhaltsverzeichnis
+
+- [Ausgangslage](#ausgangslage)
+- [Aktion](#aktion)
+    * [**Safety First**](#safety-first)
+    * [Besonderheiten](#besonderheiten)
+    * [Aktion im Alltag](#aktion-im-alltag)
+- [Effekt](#effekt)
+    * [Erfolg messen](#erfolg-messen)
+- [Abgrenzung zu anderen Protestaktionen](#abgrenzung-zu-anderen-protestaktionen)
+- [Feldversuche](#feldversuche)
+    * [Niederbipp](#niederbipp)
+    * [Solothurn](#solothurn)
+- [Logo / Identifikation](#identifikation)
+    * [Farbe](#farbe)
+- [TODO](#todo)
+
 # Ausgangslage
 
 Die Städte, Wiesen, Flüsse, Sitzplätze, Promenaden sind gespickt mit "Kleinstmüll" wie Zigarettenstummel, Glasscherben, kleinste Aluminium "Partikel", oder einfach gesagt: Müll.
@@ -69,7 +86,7 @@ Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und
 Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
-## **Safety First**
+## Safety First
 
 Die Gruppe verfügt zur Sicherheit über medizinische Versorgung.
 
@@ -231,11 +248,11 @@ Z.B. Aluminium, Bierdeckel, Plastik usw. mitnehmen. Je nach Grösse. Glas ist mi
 
 Wichtig ist die Message, dass ich auch ohne spezielles Equipment mal eben so fremden Müll entsorge, der mir gerade über den Weg läuft, auch wenn es nur ein einzelner Zigarettenstummel ist.
 
-# Logo / Identifikation
+# Identifikation
 
 Das Logo/Tag dieser Aktion ist diese Unicode Zeichenfolge:
 
-```☀️❤️☀️```
+☀️❤️☀️
 
 ## Farbe
 
@@ -245,7 +262,7 @@ Essie - Let's Party, 635
 
 ![Essie - Let's Party, 635, Color](essie-lets-party-635-color.png)
 
-## TODO
+# TODO
 
 - Essie um Support anfragen. Sie könnten als "Beauty Produkte Hersteller" ein Zeichen setzen, indem sie eine Umweltaktion offiziell mit ihrem Nagellack unterstützen.
 - Was ist zu tun mit Spritzen, Fixerutensilien und dergleichen? Liegenlassen ist keine Option.
