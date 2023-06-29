@@ -1,4 +1,4 @@
-> Das ist die englische Version des Dokumentes. Die deutsche Version befindet sich [hier](README.md)
+> Das ist die KI unterstützte englische Übersetzung des original in Deutsch verfassten Dokumentes. Die deutsche Version befindet sich [hier](README.md)
 
 ```
          _____ _                                                        ______     _   _     
