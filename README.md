@@ -281,7 +281,9 @@ Wenn mir ein "grosser Fisch" auffällt, mache ich auch mal einen Umweg um ihn zu
 
 Habe erst spät begonnen, Fotobeweise zu machen.
 
-![Resultate Niederbipp](result-niederbipp-0.jpg)
+![Resultate Niederbipp 1](result-niederbipp-1.jpg)
+
+![Resultate Niederbipp 2](result-niederbipp-2.jpg)
 
 ## Solothurn
 

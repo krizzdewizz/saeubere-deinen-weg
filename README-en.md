@@ -281,7 +281,9 @@ If I notice a "big fish", I sometimes take a detour to dispose of it.
 
 Began to take photo evidence late.
 
-![Results Niederbipp](result-niederbipp-0.jpg)
+![Results Niederbipp 1](result-niederbipp-1.jpg)
+
+![Results Niederbipp 2](result-niederbipp-2.jpg)
 
 ## Solothurn
 
