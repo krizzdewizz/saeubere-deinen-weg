@@ -20,7 +20,7 @@ Datum der Ersterstellung: 19. Juni, 2023
 
 Sprache: Deutsch (original)
 
-English Version: TODO
+English version: TODO
 
 christian@o3tt3rli.com
 
@@ -38,16 +38,21 @@ Instagram:
 
 - [Ausgangslage](#ausgangslage)
 - [Aktion](#aktion)
-    * [**Safety First**](#safety-first)
-    * [Besonderheiten](#besonderheiten)
-    * [Aktion im Alltag](#aktion-im-alltag)
+    * [Extras](#extras)
+- [Safety First](#safety-first)
+- [Besonderheiten](#besonderheiten)
+- [Aktion im Alltag](#aktion-im-alltag)
 - [Effekt](#effekt)
-    * [Erfolg messen](#erfolg-messen)
+- [Zu Aktion bekennen](#zu-aktion-bekennen)
+- [Erfolg messen](#erfolg-messen)
 - [Abgrenzung zu anderen Protestaktionen](#abgrenzung-zu-anderen-protestaktionen)
 - [Feldversuche](#feldversuche)
     * [Niederbipp](#niederbipp)
+        + [Fotobeweise](#fotobeweise)
     * [Solothurn](#solothurn)
-- [Logo / Identifikation](#identifikation)
+- [Rucksack Essentials](#rucksack-essentials)
+- [Positive Nebeneffekte](#positive-nebeneffekte)
+- [Identifikation](#identifikation)
     * [Farbe](#farbe)
 - [TODO](#todo)
 
@@ -76,13 +81,13 @@ Es hat auch einen grossen Kinderspielplatz. Er ist verwahrlost und wird, glaube 
 
 So wie immer, trifft sich die Gruppe der Aktionisten, wie auf einer Feldwiese "früher", zum gemeinsamen Picknick.
 
-Sie haben zu Essen, zu Trinken (kein Alkohol) und zu Rauchen dabei (höchstens THC Joints, keine "harten" Drogen), sind guter Laune und suchen sich unverblümt, ohne sich etwas anzumerken, wie wenn es "normal" wäre, ein freies Plätzchen, wo sie sich ausbreiten können.
+Sie haben zu essen, zu trinken (kein Alkohol) und zu rauchen dabei (höchstens THC Joints, keine "harten" Drogen), sind guter Laune und suchen sich unverblümt, ohne sich etwas anzumerken, wie wenn es "normal" wäre, ein freies Plätzchen, wo sie sich ausbreiten können.
 
 Bevor die Gruppe aber mit der "Party" beginnt, sorgt sie erst mal für ein sauberes Umfeld - Säubere deinen Weg.
 
 Sie beginnen penibel **den ganzen Platz**, nicht nur "ihren" von jedwedem Unrat zu befreien, der da nicht hingehört.
 
-Es könnte sein, dass sich ein Zigarettenstummel unter einer Parkbank befindet, wo gerade Passanten eine Rast machen. Hier wird erst höflichst um Erlaubnis gebeten, bevor man sich der Person nähert. Wir sind anständige Menschen. Bei einem Nein, zieht sich die Gruppe oder Person mit einer Entschuldigung zurück.
+Es könnte sein, dass sich ein Zigarettenstummel unter einer Parkbank befindet, wo gerade Passanten eine Rast machen. Hier wird erst höflichst um Erlaubnis gebeten, bevor man sich der Person nähert. Wir sind anständige Menschen. Bei einem Nein zieht sich die Gruppe oder Person mit einer Entschuldigung zurück.
 
 Wenn es sein muss, wird mit der Lupe nach dem noch so kleinsten Glassplitter gesucht. Eltern sollten ihre Kinder auf diesem Platz ohne Bedenken spielen lassen können.
 
@@ -90,7 +95,19 @@ Erst wenn alle der Gruppe der Meinung sind, dass der Platz sauber genug ist, und
 Die Gruppe lässt es sich ein wenig gutgehen, und zieht dann weiter zum nächsten verdreckten Platz, wo die Aktion erneut durchgeführt wird.
 Den Müll nehmen sie mit und entsorgen ihn fachgerecht an der Müllsammelstelle.
 
-## Safety First
+## Extras
+
+Auf dem Weg zu der Müllsammelstelle durch die Stadt hinterlassen wir schön anzusehende Tags im "naiven Kinderstil".
+Z.b. Blumen mit Gesichtern, ein lustiges Gesicht, dass hinter einer Wand hervorlugt - Bilder, die wir als Kinder in das Schulheft gekritzelt haben, als der Unterricht mal wieder zum Gähnen war.
+Bilder, so wie wir die Stadt gerne sehen möchten. Als Kinder und als Erwachsene.
+
+Die Tags werden mit leicht abwaschbarer, umweltverträglicher Kindermalkreide gezeichnet.
+
+Wir hinterlassen auch das Tag dieser Aktion: ☀️❤️☀️
+
+Siehe auch Kapitel "Zu Aktion bekennen"
+
+# Safety First
 
 Die Gruppe verfügt zur Sicherheit über medizinische Versorgung.
 
@@ -98,14 +115,14 @@ Jede teilnehmende Person kann für sich entscheiden, wie weit sie gehen will. Ha
 
 **Die Gesundheit der Aktionisten hat oberste Priorität!** 
 
-## Besonderheiten
+# Besonderheiten
 
-Wenn möglich und für die teilnehmende Person vertretbar, sind alle der Gruppe barfuss unterwegs und der Kleinstmüll wird mit blossen Händen/Fingerspitzen/Nägeln ungeschützt aufgepickt. Wie auf einer Wiese.
-Dies auch um den Passanten zu zeigen, dass man daran nicht "stirbt"."Die Kinder heutzutage sollten wieder mehr Dreck essen. So wie früher. Dann hätten sie auch nicht so viele Allergien" - wie der Volksmund sagt.
+Wenn möglich und für die teilnehmende Person vertretbar sind alle der Gruppe barfuss unterwegs und der Kleinstmüll wird mit blossen Händen/Fingerspitzen/Nägeln ungeschützt aufgepickt. Wie auf einer Wiese.
+Dies auch um den Passanten zu zeigen, dass man daran nicht "stirbt". "Die Kinder heutzutage sollten wieder mehr Dreck essen. So wie früher. Dann hätten sie auch nicht so viele Allergien" - wie der Volksmund sagt.
 
 Finger- und Zehennägel sind in einer möglichst auffälligen Farbe lackiert (z.B. "Essie - Let's Party, 635"). Auch die Männer - was zusätzlich Aufsehen erregt.
 
-Zum Zweck der Zugehörigkeit, sollten alle der Gruppe dieselbe Farbe verwenden.
+Zum Zweck der Zugehörigkeit sollten alle der Gruppe dieselbe Farbe verwenden.
 
 Bei Bedarf können auch künstliche Fingernägel verwendet werden.
 Die Message ist: Ich kann gepflegt sein, gepflegte Finger/Fingernägel haben und trotzdem einen Zigarettenstummel eines Fremden aufheben oder mich an einem Glassplitter schneiden.
@@ -120,11 +137,11 @@ Auch Rauchalternativen wir Liquids, Dampfen, Iqos usw sind willkommen.
 
 Und auch gar nicht rauchen. Wir wollen mit unserer "coolness" ja nicht das Rauchen fördern.
 
-Auch 100% Nichtraucher sind herzlich willkommen! So demonstrieren wir Toleranz zwischen Rauchern und Nichtrauchern.
+Auch 100 % Nichtraucher sind herzlich willkommen! So demonstrieren wir Toleranz zwischen Rauchern und Nichtrauchern.
 
 **Keine "harten" Drogen und Alkoholika, Medikamente, Leim- und Benzinschnüffeln und was nicht**
 
-Obwohl einige von uns vielleicht vor "Publikum" kiffen und stoned sind, darf niemals der Eindruck entstehen, wir seien unkonzentriert und nur zum abhängen oder chillen da. Nein! Wir sind hier unsere Umwelt zu reinigen und haben auch noch Spass dabei.
+Obwohl einige von uns vielleicht vor "Publikum" kiffen und stoned sind, darf niemals der Eindruck entstehen, wir seien unkonzentriert und nur zum Abhängen oder Chillen da. Nein! Wir sind hier unsere Umwelt zu reinigen und haben auch noch Spass dabei.
 
 Sehr wichtig ist, dass die Gruppe sich nichts anmerken lässt. Es ist das normalste der Welt. Niemand der Gruppe hebt den Zeigefinger.
 Wenn uns ein "Verschmutzer" seine Zigarettenkippe vor die Füsse schnippt, sagen wir gar nichts, heben sie auf und entsorgen sie fachgerecht.
@@ -142,7 +159,7 @@ Es sollte viele Varianten/Grössen geben. Nicht nur genau ein Modell.
 Die Raucher sollten ihn gerne bei sich tragen wollen.
 Wir haben Flyers/Infomaterial mit dabei.
 
-## Aktion im Alltag
+# Aktion im Alltag
 
 Aktionisten (alle) können auch in ihrem täglichen Leben Kleinstmüll entsorgen. Z.b. (Nachts) im Bahnhof vor einer Gruppe "randalierender" Teenager. Achtung: **Safety First**!
 
@@ -161,7 +178,17 @@ Diese Umweltaktion schadet niemandem etwas. Wir behindern niemanden. Wenn jemand
 Die Gruppe sollte nicht mehr als 5 Teilnehmer haben. Ansonsten könnte man es für einen Menschenauflauf halten.
 Die Aktion sollte so bei der Behörde nicht bewilligt werden müssen.
 
-## Erfolg messen
+# Zu Aktion bekennen
+
+Nach Vollzug der Aktion bekennen wir uns bei der Stadt/Gemeindeverwaltung.
+
+**Alle sollen wissen, wer wir sind und wofür wir einstehen**
+
+Falls der Gemeinde durch unsere Aktion Kosten entstehen würden, z.B. wegen der Kindermalkreide, werden wir vollumfänglich dafür aufkommen, obwohl wir eigentlich für die Gemeinde arbeiten.
+
+Wir machen das aus Überzeugung und erwarten kein Lob oder eine Belohnung von der Gemeinde oder von irgendjemanden sonst.
+
+# Erfolg messen
 Der potenzielle Erfolg der Aktion wird an einem Fallbeispiel belegt.
 
 Die Gruppe observiert/dokumentiert mit Fotobeweis oder anderen Mitteln denselben Platz über mehrere Tage/Wochen.
@@ -174,7 +201,7 @@ Bei Erfolg, schliessen sich womöglich andere aus anderen Städten/Ländern uns 
 
 # Abgrenzung zu anderen Protestaktionen
 
-"Säubere deinen Weg" ist eine stille Protestaktion. Niemand kommt zu schaden. Die Aktionisten nicht und auch nicht das "Ziel" der Aktion: die anderen Menschen.
+"Säubere deinen Weg" ist eine stille Protestaktion. Niemand kommt zu Schaden. Die Aktionisten nicht und auch nicht das "Ziel" der Aktion: die anderen Menschen.
 
 Wir haben Spass während wir unsere Umwelt reinigen.
 Wir müssen uns nicht anketten, ankleben oder anderweitig unsere Gesundheit und die der anderen gefährden.
@@ -193,28 +220,31 @@ Eine Woche später war der Aschenbecher weg. Gestohlen? Ja. Wird er weiter benut
 Aufwand: 1h
 
 Den Parkplatz eines Kiosks und eines Pizzabäckers gereinigt.
-Aufwand: 2h
+Aufwand: 2 h
 
 Den Rand einer Kuhwiese von Blechdosen, Plastikfetzen, Stummeln und dergleichen gereinigt. Auch in der Wiese.
-Aufwand: 0.5h
+Aufwand: 0.5 h
 
 Den Gartenplatz von Dahlia Niederbipp gereinigt. Dahlia ist eine Pflege- und Betreuungsinstitution für meist ältere, pflegebedürftige Menschen.
-Einen ca. 100m langen Abschnitt einer Strasse mit anschliessender Wiese gereinigt.
-Einen Sitzplatz und Umgebung gereinigt.
-Einen Parkplatz mit Sitzplatz gereinigt.
-Aufwand: 3h
+Einen ca. 100 m langen Abschnitt einer Strasse mit anschliessender Wiese gereinigt.
+Zwei Sitzplätze, einen Parkplatz und Umgebung gereinigt.
+Aufwand: 3 h
 
 Ich habe rund um unseren Dorfkreisel alles gesäubert, während, wie fast immer, der Fluchtverkehr sich durch unser Dorf staute.
 Autofahrer aus allen Herren Länder hätten mich absichtlich ignorieren müssen, um mir dabei nicht zusehen zu müssen.
 Auch hatten sie genügend Zeit (Stau), mir dabei zuzusehen.
-Aufwand: 1.5h
+Aufwand: 1.5 h
 
 Auf meinem Weg zum Bahnhof entsorge ich meist Unrat (Stummel und Fetzen) und werfe es in den nächsten Mülleimer.
-Aufwand: 1-2min
-
-Ich nutze das Bücken/Auf+Ab auch als Training für meine Beine/Gelenke.
+Aufwand: 1-2 min
 
 Wenn mir ein "grosser Fisch" auffällt, mache ich auch mal einen Umweg um ihn zu entsorgen.
+
+### Fotobeweise
+
+Habe erst spät begonnen, Fotobeweise zu machen.
+
+![Resultate Niederbipp](result-niederbipp-0.jpg)
 
 ## Solothurn
 
@@ -235,22 +265,37 @@ Nach meiner Aktion wasche ich demonstrativ meine Hände mit meinem Trinkwasser u
 
 Ich habe kein spezielles Equipment dabei. Manchmal findet man einen McDonalds Becher. Leider zu oft, aber das ist nicht die Schuld von McDonalds. Den Becher kann man dann grad mit dem anderen Müll befüllen und im nächsten Mülleimer entsorgen.
 
-Ich packe in meinen Rucksack:
-
-- Müllbeutel für den Notfall
-- Einen Becher. Z.B. einen Starbucks oder Coffee-to-go Becher. Die kann ich leicht mit Stummeln befüllen, während ich laufe.
-- Eine Wasserflasche für den täglichen Bedarf wie Trinken, Händewaschen, kleinere Flächen putzen. Habe ich sowieso immer mit dabei.
-- Desinfektionsmittel. Habe ich sowieso immer mit dabei.
-- Natürlich ein Schweizer Taschenmesser. Habe ich sowieso immer mit dabei.
-- Raucherwaren. Habe ich sowieso immer mit dabei.
-- Keine Handschuhe oder medizinische Versorgung.
-
 Ich bin ein ganz normaler Wanderer ohne spezielles Equipment.
 
 Ich habe den Müll noch nicht getrennt - das werde ich verbessern.
 Z.B. Aluminium, Bierdeckel, Plastik usw. mitnehmen. Je nach Grösse. Glas ist mir zu gefährlich.
 
 Wichtig ist die Message, dass ich auch ohne spezielles Equipment mal eben so fremden Müll entsorge, der mir gerade über den Weg läuft, auch wenn es nur ein einzelner Zigarettenstummel ist.
+
+# Rucksack Essentials
+
+Diese essenziellen Dinge werden für die Aktion empfohlen.
+
+Alle Dinge sollten in keinem Wanderrucksack fehlen.
+
+- Müllbeutel
+- Einen Becher. Z.B. einen Emmi Cafe Latte, Starbucks oder Coffee-to-go Becher. Die kann ich leicht mit Stummeln befüllen, während ich laufe
+- Eine Wasserflasche für den täglichen Bedarf wie Trinken, Händewaschen, kleinere Flächen putzen
+- Sonnenbrille und Sonnenschutz 
+- Desinfektionsmittel
+- Natürlich ein Schweizer Taschenmesser
+- (Raucherwaren)
+- Maskottchen
+- (Noch keine Handschuhe oder medizinische Versorgung. Werde ich mir beschaffen für den Notfall. Sollte ich immer mit dabei haben. Safety first!)
+
+![Rucksack Essentials](backpack-essentials.jpg)
+
+# Positive Nebeneffekte
+
+- Ich meditiere oft während dem ich reinige
+- Ich übe mich in koordinierten Bewegungen und Greifen. Wie z.B. ein Sushikoch, bei dem jeder Handgriff perfekt sein muss.  
+- Ich nutze das Bücken/Auf und Ab als Training für meine Beine/Gelenke
+- Ich "esse wieder mehr Dreck" und "sterbe nicht daran". Ich fasse seit Corona Dinge wieder einfach so an und löse mich so von meinen "irrationalen Infektionsängsten"
 
 # Identifikation
 
@@ -271,5 +316,5 @@ Essie - Let's Party, 635
 - Essie um Support anfragen. Sie könnten als "Beauty Produkte Hersteller" ein Zeichen setzen, indem sie eine Umweltaktion offiziell mit ihrem Nagellack unterstützen.
 - Was ist zu tun mit Spritzen, Fixerutensilien und dergleichen? Liegenlassen ist keine Option.
 - Ist es ok, während der Aktion Energydrinks wie Red Bull zu konsumieren? Andere "graue" Bereiche?
-- Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum kaufen
+- Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum Kaufen
 - Mehr?
