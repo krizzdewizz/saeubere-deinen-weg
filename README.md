@@ -1,4 +1,4 @@
-> This is the german version of the document. The english version can be found [here](README-en.md)
+> This is the german version of the document. The AI assisted translation in english can be found [here](README-en.md)
 
 ```
        _____ _   _       _                           _      _                      _    _            
