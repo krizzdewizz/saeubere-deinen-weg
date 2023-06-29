@@ -18,6 +18,10 @@ Initiiert von Christian Oetterli
 
 Datum der Ersterstellung: 19. Juni, 2023
 
+Sprache: Deutsch (original)
+
+English Version: TODO
+
 christian@o3tt3rli.com
 
 +41 (0)79 500 300 8
