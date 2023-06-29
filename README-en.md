@@ -36,10 +36,12 @@ Instagram:
 # Table of contents
 
 - [Initial position](#initial-position)
-- [action](#action)
+- [Action](#action)
     * [Extras](#extras)
 - [Safety First](#safety-first)
 - [Particularities](#particularities)
+- [Travel ashtray](#travel-ashtray)
+- [Arguments with interested parties](#arguments-with-interested-parties)
 - [Action in everyday life](#action-in-everyday-life)
 - [Effect](#effect)
 - [Commit to action](#commit-to-action)
@@ -49,7 +51,7 @@ Instagram:
     * [Niederbipp](#niederbipp)
         + [Photo proof](#photo-proof)
     * [Solothurn](#solothurn)
-- [Rucksack Essentials](#rucksack-essentials)
+- [Backpack Essentials](#backpack-essentials)
 - [Positive side effects](#positive-side-effects)
 - [Identification](#identification)
     * [Color](#color)
@@ -67,7 +69,7 @@ But this garbage has some peculiarities:
 - You would have to duck or you just don't have the right "tool" with you
 - other special features...
 
-# action
+# Action
 As is so often the case, a group of young people meet on a sunny day in a meadow, in the city park or by the lake for a get-together.
 But instead of a green meadow there is a dirty square in a city.
 
@@ -153,10 +155,46 @@ Nobody should mind. We're cleaning. The party is cool. No music, not loud. We do
 
 Only **if** a person turns to us and our campaign are we happy to answer their questions.
 We invite the person to our party.
-We also have free travel ashtrays with us. However, these should not be provided with any logo or "moral statement".
+We have flyers/information material for you.
+We also have free travel ashtrays with us.
+
+# Travel ashtray
+
+We present our range of travel ashtrays to interested parties.
+
+Travel ashtrays should not be branded with any logo or "moral statement".
+
 There should be many variants/sizes. Not just one model.
+
 The smokers should be happy to carry it with them.
-We have flyers/information material with us.
+
+# Arguments with interested parties
+
+These arguments could be presented:
+
+Argument:
+
+"That doesn't make any sense. There are so many. You'll never finish it."
+
+Answer:
+
+Tell them the following dialogue:
+
+> Says one to the other: "What was your name again?"
+>
+> Says the other: "I'm sure I've already told you that at least a thousand times!"
+>
+> "I can't remember every name"
+
+Argument:
+
+"I could get infected or hurt myself if I touch garbage with my bare hands."
+
+Answer:
+
+Tell them that a lot of people these days feel that today's generation is "too soft", should "eat more dirt", have developed all sorts of allergies, such as being disgusted with the paint on their hands. You didn't die from it either.
+
+All friendly and with a wink. The answers should never be didactic.
 
 # Action in everyday life
 
@@ -271,7 +309,7 @@ Take aluminum, beer mats, plastic, etc. with you. Depending on size. Glass is to
 
 What's important is the message that I can dispose of the rubbish that comes my way, even without special equipment, even if it's just a single cigarette butt.
 
-# Rucksack Essentials
+# Backpack Essentials
 
 These essential items are recommended for the promotion.
 

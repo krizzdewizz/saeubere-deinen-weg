@@ -40,6 +40,8 @@ Instagram:
     * [Extras](#extras)
 - [Safety First](#safety-first)
 - [Besonderheiten](#besonderheiten)
+- [Reiseaschenbecher](#reiseaschenbecher)
+- [Argumentation mit Interessierten](#argumentation-mit-interessierten)
 - [Aktion im Alltag](#aktion-im-alltag)
 - [Effekt](#effekt)
 - [Zu Aktion bekennen](#zu-aktion-bekennen)
@@ -153,10 +155,46 @@ Niemand sollte etwas dagegen haben. Wir machen ja sauber. Die Party ist cool. Ke
 
 Nur **falls** sich eine Person uns und unserer Aktion zuwendet, beantworten wir gerne deren Fragen.
 Wir laden die Person zu unserer Party ein.
-Wie haben auch gratis Reiseaschenbecher dabei. Diese sollten aber mit keinem Logo oder "Moralspruch" versehen sein.
+Wir haben Flyers/Infomaterial für sie dabei.
+Wie haben auch gratis Reiseaschenbecher dabei.
+
+# Reiseaschenbecher
+
+Interessenten stellen wir unser Reiseaschenbechersortiment vor.
+
+Reiseaschenbecher sollten mit keinem Logo oder "Moralspruch" versehen sein.
+
 Es sollte viele Varianten/Grössen geben. Nicht nur genau ein Modell.
+
 Die Raucher sollten ihn gerne bei sich tragen wollen.
-Wir haben Flyers/Infomaterial mit dabei.
+
+# Argumentation mit Interessierten
+
+Diese Argumente könnten vorlegt werden:
+
+Argument:
+
+"Das mach doch keinen Sinn. Es sind so viele. Da wird man ja nie fertig"
+
+Antwort:
+
+Erzähle ihnen folgenden Dialog:
+
+> Sagt der eine zum anderen: "Wie war dein Name auch schon wieder?"
+>
+> Sagt der andere: "Aber den habe ich dir doch sicher schon mindestens tausendmal gesagt!"
+> 
+> "Ich kann mir ja nicht jeden Namen merken"
+
+Argument:
+
+"Ich könnte mich infizieren oder verletzen, wenn ich Müll mit blossen Händen anfasse."
+
+Antwort:
+
+Erzähle ihnen, dass viele Leute heutzutage der Meinung sind, die heute Generation sei "zu verweichlicht", sollten "mehr Dreck essen", hätten allerlei Allergien entwickelt, ekeln sich z.B. vor Farbe an ihren Händen. Man sei ja auch nicht daran gestorben.
+
+Alles freundlich und mit einem Augenzwinkern. Die Antworten sollten niemals belehrend wirken.
 
 # Aktion im Alltag
 
