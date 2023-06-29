@@ -15,6 +15,7 @@ Eine stille Protestaktion zur Säuberung der Umwelt von Kleinstmüll
 ☀️❤️☀️
 
 Initiiert von Christian Oetterli
+
 Datum der Ersterstellung: 19. Juni, 2023
 
 christian@o3tt3rli.com
