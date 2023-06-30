@@ -63,7 +63,7 @@ Instagram:
 Die Städte, Wiesen, Flüsse, Sitzplätze, Promenaden sind gespickt mit "Kleinstmüll" wie Zigarettenstummel, Glasscherben, kleinste Aluminium "Partikel", oder einfach gesagt: Müll.
 Dieser Müll hat aber einige Besonderheiten:
 
-- der Müll ist zu klein, um mit den grossen "Gesteigwischer" Maschinen oder Besen, Bläser erfasst zu werden. Oft werden sie nur einfach weiter verstreut (<- Nachweis erbringen)
+- der Müll ist zu klein, um von den grossen "Gesteigwischer" Maschinen oder Besen, Bläser erfasst zu werden. Oft werden sie nur einfach weiter verstreut.
 - Es ist **viel** Müll. Genauso wie Mikroplastik im Meer. Es braucht sehr viele Arbeiter und Geld, um jedes einzelne Ding fachgerecht zu entsorgen.
 - Man hebt ungern Zigarettenstummel von "Fremden" auf, oder fühlt sich nicht für fremden Müll verantwortlich/zuständig
 - Viele Leute wären vielleicht bereit dazu, die schiere Menge aber hält sie davon ab
@@ -71,6 +71,7 @@ Dieser Müll hat aber einige Besonderheiten:
 - weitere...
 
 # Aktion
+
 Eine Gruppe von Jugendlichen trifft sich, wie so oft, an einem sonnigen Tag auf einer Wiese, im Stadtpark oder am See zu einem gemeinsamen Beisammensein.
 Aber anstatt einer grünen Wiese ist es ein verdreckter Platz in einer Stadt.
 
@@ -78,7 +79,7 @@ Der Platz sollte möglichst hoch frequentiert und möglichst verdreckt sein.
 
 Z.B. die Solothurner Promenade entlang der Aare.
 
-Da treffen sich Fussgänger, Velofahrer, Skater, Familien. Es hat Restaurants mit Terrasse und Blick auf die wunderschöne Stadt Solothurn.
+Da treffen sich Fussgänger, Fahrradfahrer, Skater, Familien. Es hat Restaurants mit Terrasse und Blick auf die wunderschöne Stadt Solothurn.
 Es hat auch einen grossen Kinderspielplatz. Er ist verwahrlost und wird, glaube ich, leider nicht so oft benutzt.
 
 So wie immer, trifft sich die Gruppe der Aktionisten, wie auf einer Feldwiese "früher", zum gemeinsamen Picknick.
@@ -365,8 +366,9 @@ Essie - Let's Party, 635
 
 # Geplante Events
 
-- 1.7.2023, 09:30. Alterswohnungen, Schule/Pausenplatz, Bahnhof 
-- 2.9.2023, 11:00. Zürich Bahnhofstrasse 
+- 1.7.2023, 09:30. Alterswohnungen, Schule/Pausenplatz, Bahnhof
+- 2.7.2023, 09:30. Spielplatz beim Bahnhof, Schule Oberstufe
+- 2.9.2023, 11:00. Zürich Bahnhofstrasse, [World Cleanup Day Event](https://www.worldcleanupday.org/event?name=saubere_deinen_weg_e_cleans_your_path_7Dp) 
 
 # TODO
 
@@ -374,5 +376,6 @@ Essie - Let's Party, 635
 - Was ist zu tun mit Spritzen, Fixerutensilien und dergleichen? Liegenlassen ist keine Option.
 - Ist es ok, während der Aktion Energydrinks wie Red Bull zu konsumieren? Andere "graue" Bereiche?
 - Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum Kaufen
+- Wer finanziert Kosten für Flyers, Reiseaschenbecher usw?
 - Mehr?
 ````

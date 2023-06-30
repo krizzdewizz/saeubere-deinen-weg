@@ -85,7 +85,7 @@ As always, the group of actionists meets, as on a field meadow "in the past", fo
 
 They eat, drink (no alcohol), smoke (maximally THC joints, no "hard" drugs), are in a good mood, and bluntly seek out a free one without showing anything, as if it were "normal". Places where they can spread.
 
-But before the group starts the "party", they first make sure the environment is clean - clean your way.
+But before the group starts the "party", they first make sure the environment is clean - cleans your way.
 
 They start meticulously **cleaning the whole place**, not just "their" ones, of any junk that doesn't belong there.
 
@@ -107,7 +107,7 @@ The tags are drawn with easily washable, environmentally friendly children's cha
 
 We also leave the tag of this promotion: ☀️❤️☀️
 
-See also chapter "Commit to action"
+See also [Commit to action](#commit-to-action).
 
 # Safety First
 
@@ -156,8 +156,8 @@ Nobody should mind. We're cleaning. The party is cool. No music, not loud. We do
 
 Only **if** a person turns to us and our campaign are we happy to answer their questions.
 We invite the person to our party.
-We have flyers/information material for you.
-We also have free travel ashtrays with us.
+We have flyers/information material for them.
+We also have free travel ashtrays with us to give away.
 
 # Travel ashtray
 
@@ -226,7 +226,7 @@ If the community incurs costs as a result of our campaign, e.g. because of the c
 
 We do this out of conviction and do not expect any praise or reward from the community or anyone else.
 
-# measure success
+# Measure success
 The potential success of the campaign is demonstrated using a case study.
 
 The group observes/documents the same place over several days/weeks with photo evidence or other means.
@@ -239,7 +239,7 @@ If successful, others from other cities/countries might join us with the goal of
 
 # Distinction from other protest actions
 
-"Clean Your Way" is a silent protest action. Nobody gets hurt. Neither the actionists nor the "goal" of the action: the other people.
+"Cleans your Way" is a silent protest action. Nobody gets hurt. Neither the actionists nor the "goal" of the action: the other people.
 
 We have fun cleaning up our environment.
 We do not have to chain, glue or otherwise endanger our health or that of others.
@@ -354,7 +354,8 @@ Essie - Let's Party, 635
 # Planned events
 
 - 1.7.2023, 09:30. Alterswohnungen, Schule/Pausenplatz, Bahnhof
-- 2.9.2023, 11:00. Zürich Bahnhofstrasse
+- 2.7.2023, 09:30. Spielplatz beim Bahnhof, Schule Oberstufe
+- 2.9.2023, 11:00. Zürich Bahnhofstrasse, [World Cleanup Day Event](https://www.worldcleanupday.org/event?name=saubere_deinen_weg_e_cleans_your_path_7Dp)
 
 # TODO
 
@@ -362,6 +363,7 @@ Essie - Let's Party, 635
 - What to do with syringes, fixer utensils and the like? Leaving is not an option.
 - Is it ok to consume energy drinks like Red Bull during the promotion? Other "grey" areas?
 - Travel ashtray Amazon/AliExpress or other web links to buy
+- Who funds the costs for flyers, travel ashtrays, etc?
 - More?
 
 
