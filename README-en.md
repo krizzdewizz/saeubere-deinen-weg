@@ -359,11 +359,15 @@ Essie - Let's Party, 635
 
 # TODO
 
-- Contact Essie for support. As a "beauty products manufacturer" you could set an example by officially supporting an environmental campaign with your nail polish.
-- What to do with syringes, fixer utensils and the like? Leaving is not an option.
-- Is it ok to consume energy drinks like Red Bull during the promotion? Other "grey" areas?
-- Travel ashtray Amazon/AliExpress or other web links to buy
-- Who funds the costs for flyers, travel ashtrays, etc?
-- More?
+🔲 Contact Essie for support. As a "beauty products manufacturer" you could set an example by officially supporting an environmental campaign with your nail polish.
 
+🔲 What to do with syringes, fixer utensils and the like? Leaving is not an option.
+
+🔲 Is it ok to consume energy drinks like Red Bull during the promotion? Other "grey" areas?
+
+🔲 Travel ashtray Amazon/AliExpress or other web links to buy
+
+🔲 Who funds the costs for flyers, travel ashtrays, etc?
+
+🔲 More?
 

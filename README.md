@@ -372,10 +372,14 @@ Essie - Let's Party, 635
 
 # TODO
 
-- Essie um Support anfragen. Sie könnten als "Beauty Produkte Hersteller" ein Zeichen setzen, indem sie eine Umweltaktion offiziell mit ihrem Nagellack unterstützen.
-- Was ist zu tun mit Spritzen, Fixerutensilien und dergleichen? Liegenlassen ist keine Option.
-- Ist es ok, während der Aktion Energydrinks wie Red Bull zu konsumieren? Andere "graue" Bereiche?
-- Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum Kaufen
-- Wer finanziert Kosten für Flyers, Reiseaschenbecher usw?
-- Mehr?
-````
+🔲 Essie um Support anfragen. Sie könnten als "Beauty Produkte Hersteller" ein Zeichen setzen, indem sie eine Umweltaktion offiziell mit ihrem Nagellack unterstützen.
+
+🔲 Was ist zu tun mit Spritzen, Fixerutensilien und dergleichen? Liegenlassen ist keine Option.
+
+🔲 Ist es ok, während der Aktion Energydrinks wie Red Bull zu konsumieren? Andere "graue" Bereiche?
+
+🔲 Reiseaschenbecher Amazon/AliExpress o.a. Web Links zum Kaufen
+
+🔲 Wer finanziert Kosten für Flyers, Reiseaschenbecher usw?
+
+🔲 Mehr?
