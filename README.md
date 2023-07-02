@@ -295,6 +295,8 @@ Habe erst spät begonnen, Fotobeweise zu machen.
 
 ![Resultate Niederbipp 2](result-niederbipp-2.jpg)
 
+![Resultate Oberbipp 1](result-oberbipp-1.jpg)
+
 ## Solothurn
 
 Die Aktion wurde an einem sonnigen Freitagnachmittag durchgeführt. Sie war nicht geplant. Ich mache das einfach so.

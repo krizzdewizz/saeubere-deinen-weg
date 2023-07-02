@@ -282,6 +282,8 @@ Began to take photo evidence late.
 
 ![Results Niederbipp 2](result-niederbipp-2.jpg)
 
+![Results Oberbipp 1](result-oberbipp-1.jpg)
+
 ## Solothurn
 
 The action was carried out on a sunny Friday afternoon. She wasn't planned. I just do it like this.
