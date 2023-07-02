@@ -83,7 +83,7 @@ It also has a large children's playground. It is neglected and, unfortunately, I
 
 As always, the group of actionists meets, as on a field meadow "in the past", for a picnic together.
 
-They eat, drink (no alcohol), smoke (maximally THC joints, no "hard" drugs), are in a good mood, and bluntly seek out a free one without showing anything, as if it were "normal". Places where they can spread.
+They eat, drink (no alcohol), smoke, are in a good mood, and bluntly seek out a free one without showing anything, as if it were "normal". Places where they can spread.
 
 But before the group starts the "party", they first make sure the environment is clean - cleans your way.
 
@@ -131,7 +131,7 @@ The message is: I can be well-groomed, have well-groomed fingers/fingernails and
 It even goes very well with long fingernails.
 
 The smokers among the group should/can/may smoke during the event. Of course only if nobody feels bothered. Also THC joints. But not too much! **Safety First**.
-You can also just pseudo-smoke or CBD. Many don't even notice the difference. Or put a Ziggi behind your ears.
+You can also just pseudo-smoke. Many don't even notice the difference. Or put a Ziggi behind your ears.
 This is how we signal: Yes, we are smokers. But not like the others. We don't just flick our butts away.
 We also demonstratively use travel ashtrays so that people see: Oh... that exists?
 
@@ -140,10 +140,6 @@ Smoking alternatives such as liquids, vaping, Iqos, etc. are also welcome.
 And don't smoke at all. We don't want to promote smoking with our "coolness".
 
 100% non-smokers are also welcome! This is how we demonstrate tolerance between smokers and non-smokers.
-
-**No "hard" drugs and alcohol, medication, glue and gasoline sniffing and what not**
-
-While some of us may get high and stoned in front of an "audience," we never want to give the impression that we're unfocused and just hanging out or chilling. No! We are here to clean up our environment and have fun doing it.
 
 It is very important that the group does not let anything be said. It's the most normal thing in the world. No one in the group raises a finger.
 If a "polluter" flicks his cigarette butt in front of our feet, we don't say anything, just pick it up and dispose of it properly.
@@ -248,7 +244,7 @@ I am convinced that setting a good example is more beneficial in the long term t
 
 # Field trials
 
-I am a smoker and stoner and carried out the campaign personally in my place of residence Niederbipp and my home town of Solothurn.
+I am a smoker and carried out the campaign personally in my place of residence Niederbipp and my home town of Solothurn.
 
 ## Niederbipp
 
@@ -290,7 +286,7 @@ Began to take photo evidence late.
 
 The action was carried out on a sunny Friday afternoon. She wasn't planned. I just do it like this.
 
-For about 2 hours, barefoot, with painted nails, unprotected and smoking weed, I meticulously cleared the Aare wall and a seat in front of a restaurant terrace of cigarette butts, tiny broken glass and rubbish before I took a break on the park bench.
+For about 2 hours, barefoot, with painted nails, unprotected and smoking, I meticulously cleared the Aare wall and a seat in front of a restaurant terrace of cigarette butts, tiny broken glass and rubbish before I took a break on the park bench.
 
 It had many passers-by and it was quite dirty.
 

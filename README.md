@@ -84,7 +84,7 @@ Es hat auch einen grossen Kinderspielplatz. Er ist verwahrlost und wird, glaube 
 
 So wie immer, trifft sich die Gruppe der Aktionisten, wie auf einer Feldwiese "früher", zum gemeinsamen Picknick.
 
-Sie haben zu essen, zu trinken (kein Alkohol) und zu rauchen dabei (höchstens THC Joints, keine "harten" Drogen), sind guter Laune und suchen sich unverblümt, ohne sich etwas anzumerken, wie wenn es "normal" wäre, ein freies Plätzchen, wo sie sich ausbreiten können.
+Sie haben zu essen, zu trinken (kein Alkohol) und zu rauchen dabei, sind guter Laune und suchen sich unverblümt, ohne sich etwas anzumerken, wie wenn es "normal" wäre, ein freies Plätzchen, wo sie sich ausbreiten können.
 
 Bevor die Gruppe aber mit der "Party" beginnt, sorgt sie erst mal für ein sauberes Umfeld - Säubere deinen Weg.
 
@@ -133,8 +133,8 @@ Bei Bedarf können auch künstliche Fingernägel verwendet werden.
 Die Message ist: Ich kann gepflegt sein, gepflegte Finger/Fingernägel haben und trotzdem einen Zigarettenstummel eines Fremden aufheben oder mich an einem Glassplitter schneiden.
 Es geht sogar sehr gut mit langen Fingernägeln.
 
-Die Raucher unter der Gruppe sollten/können/dürfen während der Aktion rauchen. Natürlich nur, wenn sich niemand belästigt fühlt. Auch THC Joints. Aber nicht zu viel! **Safety First**.
-Man kann auch nur Pseudo-Rauchen oder CBD. Den Unterschied merken viele gar nicht. Oder eine Ziggi hinter die Ohren klemmen.
+Die Raucher unter der Gruppe sollten/können/dürfen während der Aktion rauchen. Natürlich nur, wenn sich niemand belästigt fühlt. Aber nicht zu viel! **Safety First**.
+Man kann auch nur Pseudo-Rauchen. Den Unterschied merken viele gar nicht. Oder eine Ziggi hinter die Ohren klemmen.
 So signalisieren wir: Ja, wir sind Raucher. Aber nicht so wie die anderen. Wir schnippen unsere Kippen nicht einfach weg.
 Wir verwenden auch demonstrativ Reiseaschenbecher, damit die Leute sehen: Ach...das gibt es?
 
@@ -143,10 +143,6 @@ Auch Rauchalternativen wir Liquids, Dampfen, Iqos usw sind willkommen.
 Und auch gar nicht rauchen. Wir wollen mit unserer "coolness" ja nicht das Rauchen fördern.
 
 Auch 100 % Nichtraucher sind herzlich willkommen! So demonstrieren wir Toleranz zwischen Rauchern und Nichtrauchern.
-
-**Keine "harten" Drogen und Alkoholika, Medikamente, Leim- und Benzinschnüffeln und was nicht**
-
-Obwohl einige von uns vielleicht vor "Publikum" kiffen und stoned sind, darf niemals der Eindruck entstehen, wir seien unkonzentriert und nur zum Abhängen oder Chillen da. Nein! Wir sind hier unsere Umwelt zu reinigen und haben auch noch Spass dabei.
 
 Sehr wichtig ist, dass die Gruppe sich nichts anmerken lässt. Es ist das normalste der Welt. Niemand der Gruppe hebt den Zeigefinger.
 Wenn uns ein "Verschmutzer" seine Zigarettenkippe vor die Füsse schnippt, sagen wir gar nichts, heben sie auf und entsorgen sie fachgerecht.
@@ -255,7 +251,7 @@ Ich bin überzeugt, mit gutem Beispiel voranzugehen bringt längerfristig mehr a
 
 # Feldversuche
 
-Ich bin Raucher und Kiffer und habe die Aktion persönlich in meinem Wohnort Niederbipp und meinem Heimatort Solothurn durchgeführt.
+Ich bin Raucher und habe die Aktion persönlich in meinem Wohnort Niederbipp und meinem Heimatort Solothurn durchgeführt.
 
 ## Niederbipp
 
@@ -303,7 +299,7 @@ Habe erst spät begonnen, Fotobeweise zu machen.
 
 Die Aktion wurde an einem sonnigen Freitagnachmittag durchgeführt. Sie war nicht geplant. Ich mache das einfach so.
 
-Über ca. 2 Stunden habe ich barfuss, mit lackierten Nägeln, ungeschützt und kiffend die Aaremauer und einen Sitzplatz vor einer besuchten Restaurantterrasse penibelst von Zigarettenstummeln, kleinsten Glasscherben und Unrat befreit, bevor ich auf der Parkbank eine Rast einlegte.
+Über ca. 2 Stunden habe ich barfuss, mit lackierten Nägeln, ungeschützt und rauchend die Aaremauer und einen Sitzplatz vor einer besuchten Restaurantterrasse penibelst von Zigarettenstummeln, kleinsten Glasscherben und Unrat befreit, bevor ich auf der Parkbank eine Rast einlegte.
 
 Es hatte viele Passanten und es war ziemlich verschmutzt.
 
